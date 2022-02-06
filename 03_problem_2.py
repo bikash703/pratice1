@@ -1,0 +1,10 @@
+n1=input("Enter 1st number\n")
+n2=input("Enter 2nd number\n")
+n3=input("Enter 3rd number\n")
+n4=input("Enter 4th number\n")
+n5=input("Enter 5th number\n")
+n6=input("Enter 6th number\n")
+n7=input("Enter 7th number\n")
+n8=input("Enter 8th number\n")
+A={n1, n2, n3, n4, n5, n6, n6, n7, n8}
+print(A)
